@@ -131,7 +131,7 @@ img {
  box-shadow: -6px 6px 0 0 var(--color-brand);
 }
 
-.iconbox {
+.icon-box {
  width: 60px;
  height: 60px;
  display: flex;
