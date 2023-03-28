@@ -59,6 +59,7 @@ img {
  padding-bottom: 80px;
  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
+*/
 
 /* Navbar style Started here */
 .navbar {
@@ -88,7 +89,6 @@ img {
   background-size: cover;
   background-position: center;
  }
-
  .navbar-brand img {
   border: 8px solid var(--color-base);
  }
