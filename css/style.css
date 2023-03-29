@@ -59,7 +59,17 @@ img {
  padding-bottom: 80px;
  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
-*/
+
+.icon-box {
+ width: 60px;
+ height: 60px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 32px;
+ background-color: var(--color-brand);
+ color: var(--color-base);
+}
 
 /* Navbar style Started here */
 .navbar {
